@@ -9,6 +9,7 @@
     background-color: ghostwhite;
 }
 .container {
+    text-align: center;
     width: 500px;
     clear: both;
   }
