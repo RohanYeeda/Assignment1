@@ -5,11 +5,11 @@
 }
 .b
 {
-    text-align: center;
+    text-align: left;
     background-color: ghostwhite;
 }
 .container {
-    text-align: center;
+    
     width: 500px;
     clear: both;
   }
